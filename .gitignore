@@ -1,0 +1,53 @@
+# ===================================================================
+# General
+# ===================================================================
+
+# System files from macOS and Windows
+.DS_Store
+Thumbs.db
+
+# IDE and code editor configuration files
+.vscode/
+.idea/
+
+# Log and temporary files
+*.log
+*.tmp
+
+# ===================================================================
+# Python
+# ===================================================================
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Virtual environment folders
+venv/
+env/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# ===================================================================
+# C / C++
+# ===================================================================
+
+# Compiled object files
+*.o
+*.obj
+
+# Executable files (common names)
+# On Windows
+*.exe
+
+
+# ===================================================================
+# Sensitive Information
+# ===================================================================
+
+# Never commit files containing secrets or credentials
+*.env
+credentials.json
+secrets.txt
