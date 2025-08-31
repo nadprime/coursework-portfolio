@@ -181,7 +181,7 @@ cs50p-python-programming/
 │   ├── python-cheatsheet.md      # Quick reference guide
 │   └── debugging-strategies.md   # Problem-solving techniques
 └── certificate/                  # ✅ Course completion proof
-    └── cs50p-verified-certificate.pdf
+    └── cs50p-verified-certificate
 ```
 
 ## 🚀 Key Projects & Achievements

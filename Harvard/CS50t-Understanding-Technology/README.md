@@ -98,8 +98,8 @@ CS50T was Harvard University's introduction to technology designed specifically 
 ## 🏆 Personal Achievement
 
 **Status:** ✅ **Successfully Completed**  
-**Certificate:** [View Certificate](https://certificates.cs50.io/your-certificate-id) ✅  
-**Completion Date:** Dec 2023  
+**Certificate:** [View Certificate](https://cs50.harvard.edu/certificates/491cc762-0468-47bd-ac64-c13b4c592453) ✅  
+**Completion Date:** Dec 2024  
 **Final Grade:** Excellent (>90% on all assignments)
 
 ### Key Takeaways & Personal Growth
@@ -155,13 +155,9 @@ cs50t-understanding-technology/
 ## 🔗 Additional Resources
 
 ### Archived Course Materials
-- [Course Syllabus](https://cs50.harvard.edu/technology/syllabus/) *(Archive)*
-- [Weekly Schedule](https://cs50.harvard.edu/technology/weeks/) *(Archive)*
-- [Course License](https://cs50.harvard.edu/technology/license/) *(Archive)*
-
-### Related Current Courses
-- [CS50x 2025](https://cs50.harvard.edu/x/) - Introduction to Computer Science
-- [CS50 Course Catalog](https://cs50.harvard.edu/x/courses/) - All current CS50 offerings
+- [Course Syllabus](https://cs50.harvard.edu/technology/syllabus/) 
+- [Weekly Schedule](https://cs50.harvard.edu/technology/weeks/)
+- [Course License](https://cs50.harvard.edu/technology/license/)
 
 ---
 
@@ -180,4 +176,4 @@ The course's retirement reflects the natural evolution of technology education a
 </div>
 
 ## Note:
-Due to CS50's academic honesty policy, I’m unable to share the course assignment publicly. I’ll update this page with the certificate link once it’s available. In the meantime, you can view it on my LinkedIn profile.
+Due to CS50's academic honesty policy, I’m unable to share the course assignment publicly. However, I’m happy to discuss my learning experience and key takeaways from the course!

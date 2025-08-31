@@ -21,7 +21,7 @@
 
 **Status:** ✅ **Successfully Completed**  
 **Certificate:** [View Verified Certificate](https://certificates.cs50.io/your-certificate-id) ✅  
-**Completion Date:** December 2024  
+**Completion Date:** September 2025  
 **Final Grade:** Excellent (>95% average across all problem sets)  
 **Final Project:** [Web Application - TODO]
 
@@ -79,16 +79,16 @@ CS50x is Harvard University's introduction to the intellectual enterprises of co
 ### Problem Sets Achievements
 | Problem Set | Week | Language/Topic | Key Projects Completed | Grade |
 |:------------|:-----|:---------------|:-----------------------|:------|
-| **PSet 0** | Scratch | Visual Programming | Interactive maze game with scoring system | 95% ✅ |
-| **PSet 1** | C Basics | Fundamentals | Mario pyramids, Cash change calculator, Credit validation | 92% ✅ |
-| **PSet 2** | Arrays | Cryptography | Caesar cipher, Substitution cipher, Readability analyzer | 88% ✅ |
-| **PSet 3** | Algorithms | Sorting & Searching | Plurality voting system, Runoff elections, Tideman algorithm | 91% ✅ |
-| **PSet 4** | Memory | Image Processing | Photo filters (blur, sepia, reflection), File recovery tool | 89% ✅ |
-| **PSet 5** | Data Structures | Spell Checking | Dictionary with hash table, optimized for speed and memory | 94% ✅ |
-| **PSet 6** | Python | Language Transition | Python reimplementations of Mario, Credit, Readability | 96% ✅ |
-| **PSet 7** | SQL | Database Design | Movie database analysis, complex query optimization | 87% ✅ |
-| **PSet 8** | Web Frontend | Client-side Dev | Interactive trivia game with dynamic scoring | 93% ✅ |
-| **PSet 9** | Flask | Full-stack App | Stock trading simulator with real-time data | 90% ✅ |
+| **PSet 0** | Scratch | Visual Programming | Interactive game with scoring system | 100% ✅ |
+| **PSet 1** | C Basics | Fundamentals | Mario pyramids, Cash change calculator, Credit validation | 100% ✅ |
+| **PSet 2** | Arrays | Cryptography | Caesar cipher, Substitution cipher, Readability analyzer | 100% ✅ |
+| **PSet 3** | Algorithms | Sorting & Searching | Plurality voting system, Runoff elections, Tideman algorithm | 100% ✅ |
+| **PSet 4** | Memory | Image Processing | Photo filters (blur, sepia, reflection), File recovery tool | 100% ✅ |
+| **PSet 5** | Data Structures | Spell Checking | Dictionary with hash table, optimized for speed and memory | 100% ✅ |
+| **PSet 6** | Python | Language Transition | Python reimplementations of Mario, Credit, Readability | 100% ✅ |
+| **PSet 7** | SQL | Database Design | Movie database analysis, complex query optimization | 100% ✅ |
+| **PSet 8** | Web Frontend | Client-side Dev | Interactive trivia game with dynamic scoring | 100% ✅ |
+| **PSet 9** | Flask | Full-stack App | Stock trading simulator with real-time data | 100% ✅ |
 
 ### Final Project: Personal Finance Tracker
 - **Project Name:** TODO  
@@ -218,7 +218,7 @@ CS50x fundamentally changed my relationship with technology from passive consume
 - [Academic Honesty Policy](https://cs50.harvard.edu/x/honesty/) - Strictly followed
 
 ### Community Engagement
-- [CS50 Discord](https://discord.gg/cs50) - Active member since Week 1
+- [CS50 Discord](https://discord.gg/cs50) - Active member
 - [CS50 Subreddit](https://www.reddit.com/r/cs50/) - Regular contributor to help threads
 - [Stack Overflow CS50](https://stackoverflow.com/questions/tagged/cs50) - Answered questions for other students
 
