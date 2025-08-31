@@ -165,14 +165,11 @@ cs50t-understanding-technology/
 
 CS50T successfully democratized technology education, making complex technical concepts accessible to thousands of non-technical students worldwide. While the course is no longer active, its approach to explaining technology in plain language continues to influence modern digital literacy education.
 
-The course's retirement reflects the natural evolution of technology education as digital literacy has become more mainstream and integrated into other curricula.
-
 ---
 
 <div align="center">
   <strong>📚 Course Completed Successfully 📚</strong><br>
   <em>Technology demystified through Harvard's accessible approach</em><br><br>
-  <small><em>Course materials archived for educational reference</em></small>
 </div>
 
 ## Note:
