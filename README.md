@@ -36,7 +36,7 @@ This portfolio represents hundreds of hours of dedicated learning, practical cod
 - **Skills Gained:** Python syntax and semantics, Functions and libraries, File I/O operations, Regular expressions, Object-oriented programming, Error handling and debugging
 - **Key Projects:** Problem sets covering practical Python applications
 
-#### **[CS50X: Introduction to Computer Science](./Harvard/CS50x-Introduction-to-Computer-Science/README.md)** 🔄 *IN PROGRESS*
+#### **[CS50X: Introduction to Computer Science](./Harvard/CS50x-Introduction-to-Computer-Science/README.md)** 🔄 ✅ *COMPLETED*
 > Teaches problem-solving with emphasis on correctness, design, and style. Topics include computational thinking, abstraction, algorithms, data structures
 - **Focus:** Comprehensive computer science fundamentals
 - **Duration:** 10 weeks + Final Project
@@ -159,7 +159,6 @@ This portfolio represents hundreds of hours of dedicated learning, practical cod
 ## 🎯 Current Learning Goals
 
 ### Short-term Objectives (Next 6 months)
-- ✅ Complete CS50X final project (web application)
 - ✅ Finish MIT 6.006 advanced algorithms
 - 🔄 Begin specialization in machine learning or web development
 - 🔄 Contribute to open-source projects
@@ -233,7 +232,7 @@ coursework-portfolio/
 ## 📈 Next Steps
 
 ### Immediate Goals
-1. **Complete Current Courses:** Finish CS50X and MIT 6.006 with excellence
+1. **Complete Current Courses:** Finish MIT 6.006 with excellence
 2. **Capstone Project:** Develop a significant final project showcasing all learned skills
 3. **Portfolio Enhancement:** Create live demonstrations of key projects
 
