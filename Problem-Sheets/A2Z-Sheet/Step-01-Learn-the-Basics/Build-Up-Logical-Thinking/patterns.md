@@ -1,0 +1,1 @@
+- For building logical thinking, it is important to recognize patterns in problems. This helps us to identify the underlying structure of the problem and apply the appropriate techniques to solve it. So, we will start with some basic patterns that are commonly used in competitive programming.

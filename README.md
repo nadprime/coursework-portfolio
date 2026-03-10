@@ -45,7 +45,7 @@ Representing hundreds of hours of dedicated learning, practical coding experienc
 - **Skills Gained:** Python syntax and semantics, Functions and libraries, File I/O operations, Regular expressions, Object-oriented programming, Error handling and debugging
 - **Key Projects:** Problem sets covering practical Python applications
 
-#### **[CS50X: Introduction to Computer Science](./Harvard/CS50x-Introduction-to-Computer-Science/README.md)** 🔄 ✅ *COMPLETED*
+#### **[CS50X: Introduction to Computer Science](./Harvard/CS50x-Introduction-to-Computer-Science/README.md)** ✅ *COMPLETED*
 > Teaches problem-solving with emphasis on correctness, design, and style. Topics include computational thinking, abstraction, algorithms, data structures
 - **Focus:** Comprehensive computer science fundamentals
 - **Duration:** 10 weeks + Final Project
@@ -129,74 +129,6 @@ Representing hundreds of hours of dedicated learning, practical coding experienc
 - **Projects Completed:** 35+ assignments and projects
 - **Certificates Earned:** 2 verified certificates
 
-### Problem-Solving Progress
-- **LeetCode Problems Solved:** 1 (Target: 500)
-- **Codeforces Rating:** Starting journey
-- **Daily Coding Streak:** 1 day 🔥
-- **Algorithms Implemented:** In progress
-- **Data Structures Mastered:** Building foundation
-
-### Skill Development Timeline
-```
-2024 Q3: CS50T (Technology Foundations)
-2024 Q4: MIT Missing Semester (Developer Tools) ✅
-2025 Q1: CS50P (Python Mastery) 🔄
-2025 Q2: MIT 6.0001 (CS Fundamentals) 🔄
-2025 Q3: MIT 6.0002 (Data Science) 🔄
-2025 Q4: CS50X (Computer Science) 🔄
-2026 Q1: MIT 6.006 (Advanced Algorithms) 🔄
-2026 Q1: LeetCode & Codeforces Practice Started 🔥
-```
-
----
-
-## 🏆 Notable Achievements
-
-### Academic Excellence
-- **Consistent High Performance:** Maintained >95% average across all completed courses
-- **Perfect Submission Record:** 100% assignment completion rate
-- **Advanced Track Selection:** Chose challenging algorithm-focused courses
-- **Self-Directed Learning:** Completed all courses independently
-
-### Technical Milestones
-- **First Program:** Scratch animation in CS50T
-- **Systems Programming:** Memory management in C (CS50X)
-- **Data Science Application:** Statistical analysis projects (6.0002)
-- **Full-Stack Development:** Web applications with Flask (CS50X)
-- **Algorithm Implementation:** Custom data structures (6.006)
-- **Problem Solving:** Started LeetCode journey (Two Sum solved)
-- **Documentation:** Established daily logging habit
-- **Portfolio Development:** Comprehensive knowledge base created
-
-### Professional Development
-- **Problem-Solving Methodology:** Systematic approach to debugging and optimization
-- **Code Quality Focus:** Emphasis on readable, maintainable code
-- **Best Practices Adoption:** Industry-standard tools and workflows
-- **Continuous Learning:** Active engagement with cutting-edge CS education
-- **Technical Documentation:** Maintaining comprehensive notes and daily logs
-- **Interview Preparation:** Building strong foundation for technical careers
-
----
-
-## 🎯 Current Learning Goals
-
-### Short-term Objectives (Next 3 months)
-- 🔄 Complete CS50P and CS50X courses
-- 🔄 Solve 150 LeetCode problems (Blind 75 + extras)
-- 🔄 Implement 20+ fundamental algorithms
-- 🔄 Master core data structures
-- 🔄 Build 3-5 portfolio projects
-- 🔄 Maintain daily learning log
-- 🔄 Complete system design fundamentals
-
-### Long-term Vision (Next 1 year)
-- **Algorithm Mastery:** Solve 500+ problems across LeetCode and Codeforces
-- **Advanced Courses:** Complete all MIT 6.00x series courses
-- **System Design:** Master distributed systems and scalability patterns
-- **Portfolio:** 10+ production-ready projects
-- **Interview Ready:** Prepared for top tech company interviews
-- **Real-world Application:** Apply skills in full-time role and contribute to open source
-- **Community Contribution:** Share knowledge through documentation and teaching
 
 ---
 
@@ -284,23 +216,6 @@ Structured coursework from Harvard and MIT covering computer science fundamental
 - **MIT Community:** Engaged with course forums and peer learning
 - **Stack Overflow:** Contributing answers to help other learners
 
----
-
-## 📈 Next Steps
-
-### Immediate Goals
-1. **Complete Current Courses:** Finish CS50X and MIT 6.006 with excellence
-2. **Problem Solving Practice:** Daily LeetCode and Codeforces problems
-3. **Build Projects:** Develop portfolio-worthy applications
-4. **Document Learning:** Maintain daily logs and comprehensive notes
-
-### Future Learning Path
-1. **Algorithm Mastery:** Complete 500+ problems across platforms
-2. **System Design:** Master distributed systems and scalability patterns
-3. **Interview Preparation:** Systematic prep for technical interviews
-4. **Specialization:** Choose between web development, data science, or systems
-5. **Lifelong Learning:** Maintain continuous skill development and stay current
-6. **Industry Engagement:** Pursue full-time opportunities to apply skills in real-world settings
 
 ---
 
