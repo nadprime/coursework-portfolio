@@ -3,8 +3,8 @@
 <div align="center">
   <strong>🎓 Comprehensive Computer Science Learning Journey 🎓</strong><br>
   <em>From university courses to competitive programming and system design</em><br><br>
-  <img src="https://img.shields.io/badge/Total%20Courses-8-brightgreen" alt="Total Courses">
-  <img src="https://img.shields.io/badge/Universities-2-blue" alt="Universities">
+  <img src="https://img.shields.io/badge/Total%20Courses-8+-brightgreen" alt="Total Courses">
+  <img src="https://img.shields.io/badge/Universities-2+-blue" alt="Universities">
   <img src="https://img.shields.io/badge/LeetCode-1%20Solved-yellow" alt="LeetCode">
   <img src="https://img.shields.io/badge/Status-Active%20Learning-orange" alt="Status">
 </div>
@@ -123,9 +123,9 @@ Representing hundreds of hours of dedicated learning, practical coding experienc
 ## 📊 Learning Statistics
 
 ### Course Completion Metrics
-- **Total Courses Completed:** 2/8 (25%)
-- **Courses in Progress:** 6/8 (75%)
-- **Total Study Hours:** ~400+ hours
+- **Total Courses Completed:** 3/8 (37.5%)
+- **Courses in Progress:** 5/8 (62.5%)
+- **Total Study Hours:** ~ 500+ hours
 - **Projects Completed:** 35+ assignments and projects
 - **Certificates Earned:** 2 verified certificates
 
@@ -222,5 +222,5 @@ Structured coursework from Harvard and MIT covering computer science fundamental
 <div align="center">
   <strong>🚀 "The best way to learn is by doing" 🚀</strong><br>
   <em>Transforming curiosity into computational expertise, one day at a time</em><br><br>
-  <small>Last Updated: February 2026</small>
+  <small>Last Updated: March 2026</small>
 </div>
